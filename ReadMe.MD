@@ -8,4 +8,4 @@
 
 ## NB : I have not used storybook in this project. I have used the components directly in the project.
 
-3. I would recommend using [React Hooks](https://reactjs.org/docs/hooks-intro.html) to manage state in the project.
+3. Serialize and Deserialize JSON data to bend it to your will. I would recommend going through the [JSON](https://www.json.org/json-en.html) documentation to get a better understanding of how JSON works.
