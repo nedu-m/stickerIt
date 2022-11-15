@@ -6,6 +6,6 @@
 
 2. Since Intended output of the project is to create a storybook for the components used in the project. Understanding how storybook works is essential. I would recommend going through the [Storybook](https://storybook.js.org/) documentation to get a better understanding of how storybook works.
 
-## NB : I have not used storybook in this project. I have used the components directly in the project.
+### NB : I have not used storybook in this project. I have used the components directly in the project.
 
 3. Serialize and Deserialize JSON data to bend it to your will. I would recommend going through the [JSON](https://www.json.org/json-en.html) documentation to get a better understanding of how JSON works.
